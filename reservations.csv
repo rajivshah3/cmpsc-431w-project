@@ -1,0 +1,282 @@
+reservation_id,guest_id,checkin_time,checkout_time,adults,children,reservation_source,booking_date,special_requests,breakfast_included,spa_package_included,airport_pickup_included,room_rate_id,prepayment_id,other_payment_id
+1018,118,2022-02-16 11:36:41,2022-02-17 15:42:06,2,2,Website,2022-01-23,Anything course under already.,True,False,True,34_1,1018_1,<NA>
+1057,157,2022-04-27 23:53:58,2022-05-01 16:51:13,2,0,Walk-in,2022-03-29,Forward side perform church somebody glass brother.,False,True,True,22_1,1057_1,1057_2
+1063,163,2022-09-13 02:42:57,2022-09-16 11:44:36,2,1,Phone,2022-09-05,Shoulder tell hear try.,True,True,False,71_1,1063_1,<NA>
+1207,307,2022-10-07 19:48:27,2022-10-11 11:50:22,4,2,Website,2022-09-15,Drug rule describe.,True,False,True,71_1,1207_1,<NA>
+1335,435,2022-04-30 17:50:01,2022-05-02 00:20:26,1,1,Phone,2022-04-11,Remember or song there data decision economic.,False,False,False,76_1,1335_1,<NA>
+1378,478,2022-11-12 00:36:11,2022-11-16 22:21:24,3,1,Website,2022-10-12,Customer me behind collection compare rest question.,False,False,False,98_1,1378_1,<NA>
+1419,519,2022-09-12 11:07:04,2022-09-14 02:24:25,2,2,Phone,2022-09-02,Few tonight trial me successful usually red any.,False,False,False,10_1,1419_1,<NA>
+1441,541,2022-04-17 11:16:02,2022-04-18 01:00:46,2,0,Website,2022-03-15,Occur could stay fear new our.,False,False,True,22_1,1441_1,<NA>
+1451,551,2023-01-14 20:04:44,2023-01-16 05:47:29,3,2,Website,2022-12-16,Wait head personal recent store high.,False,True,False,86_1,1451_1,<NA>
+1491,591,2022-03-30 07:39:00,2022-04-03 09:27:08,3,1,Website,2022-02-19,Other style almost fund old.,False,True,True,32_1,1491_1,1491_2
+1544,644,2022-08-18 03:20:27,2022-08-23 14:27:00,2,2,Website,2022-07-11,Field training tough during teach executive.,True,True,False,25_1,1544_1,<NA>
+1560,660,2022-02-13 18:17:30,2022-02-17 07:41:43,3,0,Website,2022-02-06,System trouble community prepare dark.,True,False,True,6_1,1560_1,<NA>
+1728,828,2022-08-21 12:35:58,2022-08-24 04:04:19,1,2,Website,2022-08-06,Actually Mr it road account individual.,True,False,True,63_1,1728_1,1728_2
+1733,833,2022-12-05 23:55:55,2022-12-08 05:00:34,1,0,Phone,2022-11-12,Hour employee hospital minute charge age support.,True,False,True,41_1,1733_1,<NA>
+1734,834,2022-04-19 09:58:55,2022-04-24 15:02:29,3,1,Booking Platform,2022-04-01,Run star pressure candidate listen.,False,False,False,28_1,1734_1,<NA>
+1786,886,2022-12-12 07:24:02,2022-12-14 05:34:28,4,2,Website,2022-11-16,Bill like already could stock owner imagine.,False,False,True,28_1,1786_1,<NA>
+1828,928,2022-04-15 05:34:20,2022-04-17 04:55:08,2,0,Phone,2022-03-18,Care help Republican the.,True,True,False,59_1,1828_1,<NA>
+1979,1079,2022-12-21 10:42:17,2022-12-22 18:19:58,1,2,Booking Platform,2022-11-27,Way son should could situation.,True,False,True,38_1,1979_1,<NA>
+2073,1173,2022-06-11 22:10:04,2022-06-15 15:18:26,1,2,Walk-in,2022-05-24,Show once north daughter parent cause worry and.,True,False,False,100_1,2073_1,2073_2
+2083,1183,2022-09-10 19:08:06,2022-09-12 04:29:55,4,2,Phone,2022-08-24,Mother painting new stand wrong.,True,False,True,54_1,2083_1,<NA>
+2195,1295,2022-11-17 03:45:23,2022-11-20 18:27:12,2,0,Phone,2022-10-27,Fall carry money energy letter.,False,False,False,91_1,2195_1,<NA>
+2229,1329,2022-12-23 18:24:46,2022-12-26 11:15:06,2,0,Booking Platform,2022-11-19,Sense another maybe girl conference might more.,False,False,False,1_1,2229_1,<NA>
+2315,1415,2022-11-06 17:54:04,2022-11-08 12:42:50,1,2,Booking Platform,2022-10-27,Hope modern general such available great.,True,True,True,73_1,2315_1,<NA>
+2348,1448,2022-03-24 15:21:20,2022-03-25 12:20:10,2,0,Phone,2022-02-25,Respond space do however glass set there.,True,False,False,11_1,2348_1,<NA>
+2564,1664,2022-09-17 01:21:40,2022-09-20 03:22:38,3,1,Phone,2022-09-05,Manager amount especially travel quickly magazine brother.,False,False,True,35_1,2564_1,2564_2
+2645,1745,2022-06-26 17:14:53,2022-06-30 23:43:27,3,0,Phone,2022-05-24,Pretty mean cause team individual focus raise.,False,True,True,42_1,2645_1,<NA>
+2654,1754,2022-07-28 02:51:30,2022-08-01 03:58:42,3,1,Walk-in,2022-07-10,Share finish defense fine item.,False,True,False,75_1,2654_1,<NA>
+2718,1818,2022-03-31 04:09:54,2022-04-03 07:51:36,2,1,Phone,2022-03-09,Successful political common would most.,False,True,True,30_1,2718_1,<NA>
+2742,1842,2022-04-30 08:51:03,2022-05-04 02:24:43,2,2,Website,2022-04-12,Choice president south third.,True,False,False,14_1,2742_1,<NA>
+2769,1869,2022-02-22 21:06:40,2022-02-24 06:44:48,1,2,Website,2022-02-03,Per teacher bag how site born campaign.,True,True,False,92_1,2769_1,<NA>
+2783,1883,2022-07-09 15:33:37,2022-07-13 11:09:16,1,1,Phone,2022-06-03,Rate street move class power nation decision.,True,True,False,6_1,2783_1,<NA>
+2897,1997,2022-08-15 15:24:32,2022-08-17 09:12:40,2,1,Phone,2022-07-08,Read have federal behind building news similar wear.,False,False,False,47_1,2897_1,<NA>
+2912,2012,2022-10-09 12:16:54,2022-10-11 07:32:25,3,1,Walk-in,2022-09-29,Culture role reduce here every campaign range.,False,False,True,43_1,2912_1,<NA>
+3015,2115,2022-07-29 05:28:08,2022-07-30 16:14:15,1,1,Booking Platform,2022-06-20,Choice since feel lawyer southern professional employee analysis.,True,False,False,25_1,3015_1,<NA>
+3136,2236,2022-01-11 09:31:52,2022-01-15 03:45:34,3,0,Phone,2022-01-05,Never make expect current significant.,True,True,True,82_1,3136_1,<NA>
+3157,2257,2022-10-13 06:34:48,2022-10-18 10:08:46,4,0,Website,2022-09-28,Four prepare protect could return.,True,True,True,18_1,3157_1,<NA>
+3188,2288,2022-05-26 15:04:14,2022-05-28 00:52:40,1,1,Phone,2022-05-17,Administration country natural choose.,True,False,True,42_1,3188_1,3188_2
+3193,2293,2022-11-09 16:41:38,2022-11-14 11:21:40,1,0,Phone,2022-10-10,Fill apply daughter which interview forward.,True,False,True,85_1,3193_1,3193_2
+3214,2314,2022-09-15 05:57:28,2022-09-20 13:28:03,4,0,Phone,2022-09-10,Collection fish foreign community.,True,False,False,59_1,3214_1,3214_2
+3292,2392,2022-06-25 12:13:12,2022-06-29 08:58:46,1,1,Website,2022-05-20,Realize grow describe exactly before.,False,True,True,16_1,3292_1,<NA>
+3445,2545,2022-08-12 04:51:10,2022-08-13 00:50:39,3,2,Phone,2022-07-07,Pull maybe gun operation child analysis.,False,True,False,38_1,3445_1,<NA>
+3479,2579,2022-02-25 04:23:15,2022-02-28 00:44:12,4,0,Booking Platform,2022-02-20,Try couple back nation.,True,True,False,97_1,3479_1,<NA>
+3487,2587,2022-05-23 07:42:01,2022-05-25 03:14:23,2,2,Phone,2022-04-15,Fast question human leader.,False,False,False,9_1,3487_1,3487_2
+3512,2612,2022-09-28 13:28:21,2022-10-03 06:21:51,1,2,Booking Platform,2022-09-23,Audience there purpose notice.,False,False,False,60_1,3512_1,<NA>
+3575,2675,2022-05-23 22:24:02,2022-05-28 05:27:45,3,1,Booking Platform,2022-05-13,Statement same often threat give.,False,False,True,51_1,3575_1,<NA>
+3611,2711,2022-08-30 04:23:52,2022-09-01 23:18:03,2,1,Walk-in,2022-08-17,Performance build population.,True,True,False,35_1,3611_1,3611_2
+3665,2765,2022-10-14 13:15:44,2022-10-17 04:57:09,1,2,Walk-in,2022-09-17,Interest chair yes at.,True,True,True,55_1,3665_1,3665_2
+3706,2806,2022-03-17 03:27:48,2022-03-22 17:53:35,2,2,Booking Platform,2022-02-07,Require with not into thousand.,False,True,False,53_1,3706_1,<NA>
+3799,2899,2022-08-28 03:25:44,2022-09-02 11:00:43,1,1,Walk-in,2022-07-24,Research onto my wind involve break recent.,False,False,True,75_1,3799_1,3799_2
+3853,2953,2022-11-21 10:56:29,2022-11-22 12:49:57,2,1,Website,2022-11-16,Say around increase ok travel everyone of wish.,False,False,False,32_1,3853_1,<NA>
+3894,2994,2022-02-18 17:25:03,2022-02-19 07:20:01,3,1,Website,2022-01-18,Walk occur speech human official vote check.,False,False,True,80_1,3894_1,3894_2
+4017,3117,2022-09-01 00:46:21,2022-09-02 21:09:30,4,1,Phone,2022-07-28,Us paper sort medical short.,False,True,True,4_1,4017_1,<NA>
+4118,3218,2022-04-07 15:47:17,2022-04-11 23:53:55,1,0,Website,2022-02-28,Executive body culture model size care for.,False,True,True,94_1,4118_1,<NA>
+4122,3222,2022-06-14 07:08:18,2022-06-17 13:14:00,4,0,Booking Platform,2022-05-24,Thank sit they certain.,True,True,True,91_1,4122_1,4122_2
+4138,3238,2022-04-24 18:22:27,2022-04-26 08:31:38,3,0,Booking Platform,2022-03-17,Center create reach leg present face speak.,False,True,False,18_1,4138_1,<NA>
+4184,3284,2022-03-28 12:23:02,2022-03-30 10:07:38,4,1,Booking Platform,2022-03-17,Throw behavior these tell.,False,False,True,59_1,4184_1,4184_2
+4207,3307,2022-12-26 23:41:53,2022-12-30 08:05:03,4,0,Walk-in,2022-12-15,Man matter almost alone story treat interest service.,False,True,False,72_1,4207_1,<NA>
+4370,3470,2023-01-11 04:45:32,2023-01-14 23:15:59,1,2,Phone,2022-12-09,Maybe loss win training teacher.,True,False,True,10_1,4370_1,<NA>
+4374,3474,2023-01-05 20:27:11,2023-01-08 12:56:56,3,1,Phone,2022-12-12,Natural student approach fact.,True,True,True,13_1,4374_1,<NA>
+4408,3508,2022-08-27 02:09:17,2022-08-30 16:44:27,4,1,Booking Platform,2022-08-16,Five visit bit character knowledge member.,False,False,False,69_1,4408_1,4408_2
+4443,3543,2022-05-17 19:19:18,2022-05-19 04:42:29,1,2,Walk-in,2022-05-02,Laugh protect some maybe dog.,True,False,False,36_1,4443_1,<NA>
+4484,3584,2022-08-14 16:44:47,2022-08-15 02:43:13,2,0,Booking Platform,2022-07-25,Hot knowledge there themselves.,False,True,False,78_1,4484_1,<NA>
+4488,3588,2022-10-10 17:06:47,2022-10-12 10:58:34,3,0,Phone,2022-09-03,Big religious song section financial.,False,True,True,5_1,4488_1,<NA>
+4502,3602,2022-10-18 04:09:03,2022-10-21 19:32:54,1,2,Website,2022-09-24,Name simply rate purpose.,False,True,True,57_1,4502_1,4502_2
+4538,3638,2022-12-13 01:49:52,2022-12-16 19:48:46,2,2,Phone,2022-11-10,Common market outside writer.,False,False,True,88_1,4538_1,4538_2
+4651,3751,2022-06-11 12:35:08,2022-06-12 16:29:58,3,1,Booking Platform,2022-05-21,Field man mind community recently.,True,True,False,5_1,4651_1,<NA>
+4688,3788,2022-07-09 11:20:48,2022-07-12 14:23:56,2,1,Walk-in,2022-06-07,Treat lay great office effort day environment.,False,True,True,26_1,4688_1,<NA>
+4730,3830,2022-05-25 21:41:05,2022-05-29 02:44:48,1,0,Booking Platform,2022-04-19,Chance year sign week source.,False,False,True,17_1,4730_1,<NA>
+4808,3908,2023-01-08 10:25:17,2023-01-10 10:37:51,2,2,Walk-in,2022-12-22,Suddenly in only institution hard.,False,False,True,59_1,4808_1,<NA>
+4856,3956,2022-11-25 05:58:54,2022-11-27 05:46:38,1,0,Booking Platform,2022-11-05,School manage size other four indeed.,False,True,True,62_1,4856_1,4856_2
+4921,4021,2022-05-13 12:23:51,2022-05-15 07:18:22,4,0,Walk-in,2022-05-03,During positive mother believe get citizen.,True,True,True,61_1,4921_1,<NA>
+4942,4042,2022-08-08 12:06:28,2022-08-10 09:20:18,1,1,Booking Platform,2022-07-07,Part occur probably condition once however.,True,False,False,57_1,4942_1,<NA>
+4947,4047,2022-11-14 23:17:25,2022-11-16 10:04:06,3,1,Walk-in,2022-10-07,Help half offer heart fast.,True,True,True,89_1,4947_1,<NA>
+5123,4223,2022-12-29 15:17:47,2022-12-30 22:00:35,4,0,Walk-in,2022-12-18,Everyone care friend entire strong real.,False,True,True,98_1,5123_1,<NA>
+5162,4262,2022-03-16 06:38:42,2022-03-21 22:09:53,3,2,Phone,2022-03-01,Loss stand my discussion spend will.,True,True,False,80_1,5162_1,<NA>
+5215,4315,2022-10-10 00:28:46,2022-10-13 02:06:19,1,0,Walk-in,2022-09-05,Research while after want with.,False,False,False,24_1,5215_1,<NA>
+5246,4346,2022-04-26 05:36:13,2022-04-27 15:05:36,2,1,Website,2022-04-21,Open professional current left.,True,False,True,77_1,5246_1,<NA>
+5341,4441,2022-07-09 07:31:39,2022-07-11 08:58:13,1,2,Phone,2022-06-03,Should reason ball base may his decision.,True,True,True,22_1,5341_1,5341_2
+5391,4491,2022-11-05 02:37:11,2022-11-07 06:59:12,1,2,Booking Platform,2022-10-01,College growth either find would.,True,True,True,85_1,5391_1,<NA>
+5520,4620,2023-01-09 15:46:38,2023-01-12 06:08:25,2,2,Walk-in,2022-12-16,Current health together movement drug discuss author.,False,True,True,33_1,5520_1,<NA>
+5549,4649,2022-10-31 13:16:35,2022-11-03 03:09:59,4,0,Booking Platform,2022-10-22,Control maintain eye worry add.,True,False,False,79_1,5549_1,<NA>
+5551,4651,2022-03-07 19:05:31,2022-03-11 06:08:23,2,0,Website,2022-01-29,Avoid sit push method.,False,True,False,74_1,5551_1,<NA>
+5623,4723,2022-05-31 17:05:40,2022-06-03 14:50:31,2,1,Booking Platform,2022-05-08,Hotel community interest among.,True,False,True,40_1,5623_1,5623_2
+5715,4815,2022-04-19 01:34:25,2022-04-23 09:58:47,1,2,Phone,2022-03-30,Center expect though how.,True,True,True,32_1,5715_1,<NA>
+5720,4820,2022-04-30 22:38:37,2022-05-01 12:57:20,2,0,Phone,2022-04-23,Trial watch your in time so protect.,True,True,True,97_1,5720_1,5720_2
+5730,4830,2023-01-08 19:15:04,2023-01-11 15:39:06,4,2,Phone,2022-12-07,Long range indicate line.,True,False,True,56_1,5730_1,<NA>
+5744,4844,2022-10-30 02:38:58,2022-11-01 04:34:20,4,0,Website,2022-10-08,Give product sell social.,False,True,False,21_1,5744_1,<NA>
+5746,4846,2022-02-28 15:52:06,2022-03-04 01:15:48,3,2,Walk-in,2022-02-07,Rich hear phone.,True,False,False,11_1,5746_1,5746_2
+5759,4859,2022-07-10 05:27:18,2022-07-11 05:05:27,4,1,Website,2022-07-05,Head form cell arm every rule.,True,True,False,68_1,5759_1,5759_2
+5969,5069,2022-01-30 04:03:28,2022-01-31 22:05:27,1,0,Booking Platform,2022-01-19,Physical president behind day.,True,True,True,40_1,5969_1,<NA>
+5977,5077,2023-01-10 20:33:55,2023-01-14 04:13:04,2,0,Phone,2022-12-28,Toward rise remain always continue husband score.,False,False,True,11_1,5977_1,<NA>
+6221,5321,2022-12-15 02:40:54,2022-12-17 15:42:45,3,0,Booking Platform,2022-11-24,Or live what protect check alone tend.,True,True,False,1_1,6221_1,<NA>
+6276,5376,2022-10-15 21:45:34,2022-10-16 16:24:02,4,1,Walk-in,2022-09-18,They defense with.,True,True,False,51_1,6276_1,<NA>
+6315,5415,2022-04-28 18:13:14,2022-04-30 07:50:56,1,1,Phone,2022-03-23,Everyone follow entire involve continue model great.,False,False,False,100_1,6315_1,<NA>
+6378,5478,2022-10-26 06:07:23,2022-10-27 18:23:44,1,1,Phone,2022-10-19,Better institution few clear.,True,False,False,65_1,6378_1,6378_2
+6384,5484,2022-02-10 02:53:16,2022-02-11 14:08:33,4,2,Booking Platform,2022-01-22,Take sister foot take minute.,False,False,True,99_1,6384_1,6384_2
+6423,5523,2022-11-28 12:02:06,2022-12-01 03:39:10,1,1,Walk-in,2022-10-26,Protect draw instead hour first hospital.,False,False,True,55_1,6423_1,<NA>
+6431,5531,2022-05-30 08:05:43,2022-05-31 05:16:35,4,2,Walk-in,2022-05-17,Security customer hope enter smile production administration.,False,True,True,52_1,6431_1,<NA>
+6443,5543,2022-05-22 03:23:24,2022-05-24 11:10:27,3,1,Phone,2022-04-23,Front piece they daughter anything should last physical.,False,False,True,6_1,6443_1,<NA>
+6583,5683,2022-04-04 21:08:53,2022-04-08 05:25:49,1,2,Website,2022-03-22,Less art participant source sign dinner maybe participant.,True,True,False,35_1,6583_1,<NA>
+6591,5691,2022-12-14 18:28:31,2022-12-17 05:39:12,3,1,Booking Platform,2022-11-17,Way science difference community.,True,True,False,79_1,6591_1,6591_2
+6642,5742,2022-09-30 17:34:36,2022-10-01 19:53:09,2,2,Website,2022-09-24,Next gun national list.,True,True,False,58_1,6642_1,<NA>
+6749,5849,2022-04-09 11:00:35,2022-04-10 05:41:45,2,1,Website,2022-03-30,Effect group if you arm debate hundred.,False,True,False,35_1,6749_1,6749_2
+6772,5872,2022-10-21 18:04:45,2022-10-25 10:10:04,4,2,Walk-in,2022-09-13,Much sometimes reduce for center.,True,False,True,65_1,6772_1,<NA>
+6791,5891,2022-12-23 02:22:32,2022-12-28 19:00:42,2,0,Walk-in,2022-11-21,Ok dark ahead recently want office spend.,False,False,True,44_1,6791_1,<NA>
+6793,5893,2022-09-07 02:52:38,2022-09-09 17:35:36,1,2,Website,2022-08-20,Term represent hear.,False,False,True,74_1,6793_1,<NA>
+6859,5959,2022-12-03 22:39:52,2022-12-05 04:06:49,1,0,Phone,2022-11-10,Guy source national leave pretty data ok.,True,True,True,89_1,6859_1,<NA>
+6863,5963,2022-10-08 00:13:03,2022-10-09 15:01:38,2,1,Website,2022-09-20,Teach stop ask image.,True,False,True,27_1,6863_1,6863_2
+7019,6119,2023-01-11 03:32:15,2023-01-14 11:19:13,2,2,Booking Platform,2022-12-13,Thousand might federal light maybe question.,False,True,True,5_1,7019_1,<NA>
+7086,6186,2022-02-15 21:35:17,2022-02-17 11:22:56,1,1,Phone,2022-01-08,Personal nothing north heart win expect.,True,True,False,85_1,7086_1,<NA>
+7367,6467,2023-01-06 07:44:58,2023-01-09 02:15:08,3,2,Website,2022-12-26,North my sea later government range letter beat.,True,True,True,52_1,7367_1,<NA>
+7384,6484,2022-08-11 19:56:56,2022-08-12 14:19:46,4,1,Booking Platform,2022-07-14,Later stop nor speech.,False,True,True,94_1,7384_1,<NA>
+7387,6487,2022-05-05 03:24:30,2022-05-07 10:17:27,4,2,Phone,2022-04-04,Same cut around thing loss.,True,True,False,29_1,7387_1,<NA>
+7435,6535,2022-04-05 21:13:39,2022-04-06 16:52:36,2,2,Phone,2022-03-06,Article mission knowledge attack.,True,True,False,3_1,7435_1,<NA>
+7528,6628,2022-03-23 07:34:17,2022-03-27 02:39:12,3,2,Website,2022-02-24,Ball issue ask truth candidate let.,False,True,True,78_1,7528_1,<NA>
+7714,6814,2023-01-18 11:08:09,2023-01-21 15:18:16,3,2,Walk-in,2022-12-12,Approach marriage economy.,True,False,False,79_1,7714_1,<NA>
+7744,6844,2022-07-15 02:44:30,2022-07-16 04:36:27,1,1,Walk-in,2022-06-23,Activity break land must pay.,False,True,True,5_1,7744_1,<NA>
+7810,6910,2022-07-15 02:33:27,2022-07-17 13:24:44,3,0,Walk-in,2022-06-22,Attack thought require list.,True,True,True,43_1,7810_1,<NA>
+28960,28060,2023-11-23 12:02:46,2023-11-26 04:06:18,3,0,Booking Platform,2023-10-21,Table maintain purpose relationship help fall who.,True,True,False,29_1,28960_1,<NA>
+28982,28082,2023-03-13 15:56:08,2023-03-16 08:34:30,2,0,Walk-in,2023-03-01,Effort least bit appear.,True,False,False,57_1,28982_1,<NA>
+29006,28106,2023-09-29 19:06:04,2023-10-04 02:25:41,1,0,Booking Platform,2023-08-25,Make name thus million huge.,False,True,True,13_1,29006_1,<NA>
+29044,28144,2023-08-12 19:35:47,2023-08-16 04:48:24,4,0,Booking Platform,2023-07-08,Major society low edge make live lot.,True,False,True,87_1,29044_1,<NA>
+29088,28188,2023-11-07 00:31:11,2023-11-12 12:34:24,4,1,Phone,2023-10-21,In government hear pretty successful benefit.,True,True,False,54_1,29088_1,<NA>
+29096,28196,2023-02-24 11:25:00,2023-02-25 20:42:40,2,1,Website,2023-02-18,Support force would blood room.,True,True,True,33_1,29096_1,<NA>
+29141,28241,2024-01-18 19:48:22,2024-01-21 02:14:49,2,0,Walk-in,2023-12-28,Traditional remain true of.,True,True,False,64_1,29141_1,<NA>
+29145,28245,2023-10-11 21:54:58,2023-10-12 16:27:45,2,1,Website,2023-09-19,National ground leave meeting enter appear.,True,True,False,49_1,29145_1,<NA>
+29159,28259,2023-06-21 00:16:02,2023-06-24 15:23:39,2,1,Booking Platform,2023-06-05,Both loss toward her treat realize happy man.,True,True,True,61_1,29159_1,29159_2
+29219,28319,2023-04-07 07:49:56,2023-04-09 00:31:19,3,2,Website,2023-03-23,Much space pretty.,False,False,False,70_1,29219_1,<NA>
+29221,28321,2023-11-16 23:48:10,2023-11-18 01:02:42,3,2,Booking Platform,2023-10-27,Billion fear keep quickly prove standard indicate.,True,False,False,58_1,29221_1,29221_2
+29234,28334,2023-03-25 07:42:55,2023-03-27 06:11:38,2,0,Phone,2023-03-07,Garden lawyer picture wall those.,True,False,True,16_1,29234_1,29234_2
+29266,28366,2023-10-28 16:05:05,2023-10-29 13:59:10,1,2,Walk-in,2023-10-01,Game take letter budget out get fast.,True,True,False,67_1,29266_1,<NA>
+29300,28400,2023-09-09 05:19:44,2023-09-14 06:02:46,2,2,Website,2023-08-01,Avoid across find success.,True,True,False,34_1,29300_1,<NA>
+29336,28436,2023-07-01 17:56:01,2023-07-06 22:52:04,4,1,Website,2023-06-19,Soldier of treat treatment.,False,True,False,65_1,29336_1,<NA>
+29390,28490,2023-04-11 19:30:26,2023-04-15 23:52:11,2,2,Website,2023-03-27,Speech remain begin before marriage.,False,False,True,80_1,29390_1,<NA>
+29404,28504,2023-08-25 11:27:38,2023-08-29 09:03:25,2,0,Walk-in,2023-07-17,None often star theory people.,False,True,False,16_1,29404_1,<NA>
+29451,28551,2024-01-14 17:42:20,2024-01-16 08:47:17,4,2,Website,2023-12-19,Difference bit happen provide power.,True,True,True,71_1,29451_1,29451_2
+29479,28579,2023-05-20 05:24:04,2023-05-25 07:00:47,4,0,Booking Platform,2023-04-30,These coach anything explain consider country parent.,False,True,False,96_1,29479_1,<NA>
+29522,28622,2023-07-23 03:41:40,2023-07-25 22:15:19,3,0,Booking Platform,2023-06-25,Clearly so story exist court.,False,False,False,3_1,29522_1,<NA>
+29532,28632,2023-07-14 17:41:42,2023-07-19 00:17:11,4,2,Phone,2023-06-20,Sit address listen simply reveal second.,False,True,True,74_1,29532_1,29532_2
+29588,28688,2023-12-08 08:40:10,2023-12-09 02:23:30,1,2,Booking Platform,2023-11-02,Tree onto west rate peace possible suggest.,True,True,True,94_1,29588_1,<NA>
+29593,28693,2023-12-09 14:59:04,2023-12-13 15:37:16,3,1,Walk-in,2023-11-01,Near suddenly degree they.,True,False,False,42_1,29593_1,<NA>
+29674,28774,2024-01-02 21:52:18,2024-01-04 01:18:48,2,1,Phone,2023-11-24,Cost indicate election people.,True,False,True,26_1,29674_1,<NA>
+29722,28822,2023-06-15 18:47:07,2023-06-20 20:29:36,3,1,Phone,2023-05-27,Skill keep one never life media.,False,False,False,7_1,29722_1,<NA>
+29793,28893,2023-05-25 04:21:37,2023-05-28 02:42:46,4,1,Walk-in,2023-05-08,Enough director during democratic describe report mission property.,False,False,False,7_1,29793_1,29793_2
+29794,28894,2023-11-25 17:36:44,2023-11-26 22:56:06,3,2,Phone,2023-11-14,Perhaps lead full indicate bed popular eight accept.,False,True,True,2_1,29794_1,<NA>
+29795,28895,2023-03-07 09:33:03,2023-03-11 19:43:02,1,2,Booking Platform,2023-02-21,Push teacher kitchen water however.,False,True,False,35_1,29795_1,<NA>
+29829,28929,2023-02-11 12:25:29,2023-02-13 17:06:59,2,0,Walk-in,2023-01-17,List sea inside.,True,True,True,65_1,29829_1,29829_2
+29849,28949,2023-03-19 16:13:53,2023-03-21 07:01:51,3,1,Phone,2023-02-09,Wall age line.,False,True,True,58_1,29849_1,<NA>
+29903,29003,2023-03-18 09:06:12,2023-03-20 18:03:36,2,1,Website,2023-02-17,Agree none money.,False,True,True,18_1,29903_1,<NA>
+30059,29159,2023-07-27 03:35:30,2023-07-28 20:53:45,1,0,Phone,2023-07-08,Learn affect year career.,False,True,False,47_1,30059_1,<NA>
+30076,29176,2023-10-07 02:42:02,2023-10-11 03:50:03,1,1,Booking Platform,2023-09-15,Discuss method if not.,True,False,False,5_1,30076_1,<NA>
+30191,29291,2023-10-09 13:05:19,2023-10-11 08:36:17,3,2,Website,2023-09-15,Pattern word goal its heart.,False,True,True,15_1,30191_1,<NA>
+30233,29333,2023-07-08 02:01:42,2023-07-10 02:32:44,4,0,Website,2023-06-29,Fast which report month exist scene.,True,False,False,24_1,30233_1,<NA>
+30256,29356,2023-10-27 07:48:32,2023-10-29 00:32:30,3,0,Walk-in,2023-09-24,With street couple when election.,False,False,False,83_1,30256_1,<NA>
+30276,29376,2023-03-07 18:40:54,2023-03-11 19:46:39,4,0,Website,2023-02-03,Great writer as.,True,True,True,43_1,30276_1,<NA>
+30293,29393,2023-04-21 01:46:51,2023-04-26 08:25:21,3,2,Website,2023-04-15,Approach form treat sea let us.,True,False,False,35_1,30293_1,<NA>
+30303,29403,2023-12-25 12:13:39,2023-12-29 12:52:47,2,2,Walk-in,2023-11-25,Indeed night me true affect around order very.,True,False,False,14_1,30303_1,<NA>
+30314,29414,2023-02-13 19:59:58,2023-02-15 08:48:40,4,2,Website,2023-01-30,Air money bank thousand sister.,False,True,False,61_1,30314_1,30314_2
+30347,29447,2023-07-13 05:56:50,2023-07-17 14:24:12,2,2,Website,2023-06-15,Major get girl seek guess together performance.,False,False,False,47_1,30347_1,<NA>
+30383,29483,2023-07-25 22:33:28,2023-07-27 01:29:51,4,2,Website,2023-07-20,Know wear politics.,True,True,True,24_1,30383_1,<NA>
+30485,29585,2023-02-11 14:43:19,2023-02-15 23:43:33,4,1,Walk-in,2023-01-28,Include story big movement both.,False,False,False,50_1,30485_1,<NA>
+30524,29624,2023-03-21 02:57:56,2023-03-23 21:27:05,1,1,Phone,2023-03-04,Physical how third face become south finally.,False,False,True,17_1,30524_1,<NA>
+30541,29641,2023-01-25 20:44:32,2023-01-30 05:35:31,3,1,Website,2023-01-05,Benefit way indeed citizen.,True,True,False,94_1,30541_1,<NA>
+30545,29645,2024-01-11 02:36:30,2024-01-13 10:08:08,3,1,Website,2023-12-22,Even player word leave customer.,False,True,True,90_1,30545_1,<NA>
+30600,29700,2023-11-07 15:00:07,2023-11-08 05:02:50,1,2,Website,2023-10-05,Whether course your herself course else day.,True,True,True,90_1,30600_1,30600_2
+30619,29719,2023-03-28 20:38:39,2023-03-29 05:28:39,2,2,Walk-in,2023-02-28,Meeting often especially movie party entire miss.,False,False,False,28_1,30619_1,<NA>
+30627,29727,2023-12-01 02:48:27,2023-12-03 16:52:42,4,1,Booking Platform,2023-11-22,While yeah court actually audience former sign garden.,True,False,True,40_1,30627_1,30627_2
+30674,29774,2023-03-25 02:23:33,2023-03-30 04:46:21,4,0,Walk-in,2023-02-22,Pattern deep line.,True,False,False,17_1,30674_1,<NA>
+30689,29789,2023-11-02 15:50:07,2023-11-07 22:21:43,4,1,Phone,2023-10-06,Then every couple unit term pattern suffer.,True,True,True,62_1,30689_1,30689_2
+30692,29792,2023-06-30 15:03:56,2023-07-03 03:06:23,2,2,Phone,2023-06-22,Certainly left morning.,True,True,False,80_1,30692_1,<NA>
+30717,29817,2023-06-06 05:09:11,2023-06-09 06:38:14,3,0,Website,2023-06-01,Summer particularly owner someone trade board.,False,True,True,88_1,30717_1,<NA>
+30788,29888,2023-11-16 07:23:41,2023-11-21 13:28:46,3,2,Booking Platform,2023-11-09,Popular party design section Mrs receive suddenly.,True,False,False,29_1,30788_1,30788_2
+30838,29938,2023-03-26 00:55:45,2023-03-27 07:44:07,3,0,Walk-in,2023-03-10,Despite cost field movie big high conference rise.,True,False,True,91_1,30838_1,30838_2
+30854,29954,2023-07-07 18:50:08,2023-07-08 01:10:43,1,0,Phone,2023-06-06,Experience oil red.,True,False,False,40_1,30854_1,<NA>
+30860,29960,2023-11-27 13:54:08,2023-11-29 17:52:22,3,2,Phone,2023-11-21,Change huge class economic.,False,True,True,46_1,30860_1,<NA>
+30941,30041,2023-04-17 11:30:40,2023-04-19 16:37:59,1,2,Website,2023-03-29,Improve tough teach.,True,True,False,84_1,30941_1,30941_2
+30948,30048,2023-05-06 00:54:07,2023-05-07 11:39:44,2,0,Booking Platform,2023-04-27,Former law body sea cut wife base green.,True,True,True,100_1,30948_1,<NA>
+30965,30065,2023-09-27 03:41:38,2023-10-02 18:52:53,4,2,Booking Platform,2023-09-21,Less watch future difficult.,True,True,False,77_1,30965_1,<NA>
+30967,30067,2023-04-01 10:26:40,2023-04-03 07:56:52,1,2,Walk-in,2023-02-26,Receive always for interview property somebody.,False,True,True,40_1,30967_1,<NA>
+31026,30126,2023-07-28 10:41:22,2023-08-01 00:35:39,3,0,Phone,2023-07-11,If teacher successful national.,False,True,True,28_1,31026_1,<NA>
+31029,30129,2023-08-29 06:22:23,2023-09-02 07:52:24,3,0,Booking Platform,2023-08-03,Theory success she collection light.,False,True,False,77_1,31029_1,<NA>
+31035,30135,2023-08-31 18:15:24,2023-09-01 12:51:03,4,1,Walk-in,2023-08-26,Pick carry accept present listen later.,False,True,False,16_1,31035_1,<NA>
+31064,30164,2023-10-14 12:44:34,2023-10-18 07:40:01,3,1,Booking Platform,2023-10-04,Let through wide color listen.,False,False,False,40_1,31064_1,<NA>
+31139,30239,2023-09-05 19:47:50,2023-09-10 07:52:30,4,1,Phone,2023-08-31,Test reduce with.,True,False,True,18_1,31139_1,<NA>
+31156,30256,2023-03-22 18:38:49,2023-03-25 07:57:25,3,0,Website,2023-03-13,Exactly them health bank space.,False,False,True,29_1,31156_1,<NA>
+31169,30269,2023-04-22 08:23:04,2023-04-23 18:42:56,3,2,Walk-in,2023-03-16,Serve culture build time.,True,True,True,83_1,31169_1,31169_2
+31193,30293,2023-12-02 22:20:28,2023-12-03 16:08:44,3,0,Booking Platform,2023-11-23,Low like contain war without.,False,True,True,4_1,31193_1,<NA>
+31238,30338,2024-02-06 14:06:36,2024-02-08 17:04:26,3,0,Phone,2023-12-30,Half within hope.,True,False,False,24_1,31238_1,<NA>
+31294,30394,2023-09-03 11:54:53,2023-09-06 19:58:44,4,2,Phone,2023-08-08,Possible crime kind herself as.,False,True,True,2_1,31294_1,<NA>
+31314,30414,2023-11-25 21:45:17,2023-11-27 11:10:24,1,1,Phone,2023-11-03,Walk authority recently green option myself small population.,True,False,False,67_1,31314_1,<NA>
+31336,30436,2023-05-09 21:19:28,2023-05-11 03:53:15,3,2,Booking Platform,2023-03-31,Page role too so.,True,True,True,65_1,31336_1,31336_2
+31377,30477,2023-04-15 15:25:42,2023-04-20 17:09:43,2,2,Phone,2023-04-08,Red talk story prove collection type over.,True,True,True,28_1,31377_1,<NA>
+31401,30501,2023-06-09 00:44:33,2023-06-11 21:21:49,4,2,Phone,2023-05-27,Sound find budget wrong old ever.,True,False,True,39_1,31401_1,<NA>
+31547,30647,2023-05-24 20:58:48,2023-05-26 07:14:13,1,0,Walk-in,2023-05-03,Talk bed director teach back house change education.,True,True,True,45_1,31547_1,31547_2
+31550,30650,2023-09-15 08:36:17,2023-09-16 14:18:30,1,1,Phone,2023-08-12,College main stay anything yourself.,False,False,False,82_1,31550_1,<NA>
+31559,30659,2023-05-01 12:08:26,2023-05-02 00:37:47,2,2,Phone,2023-04-01,Member computer see treat sound.,False,True,False,3_1,31559_1,<NA>
+31602,30702,2023-03-01 06:30:13,2023-03-02 00:17:09,1,1,Phone,2023-02-19,Teach perform behind magazine.,True,True,True,15_1,31602_1,31602_2
+31641,30741,2023-06-20 13:23:52,2023-06-21 08:34:09,4,1,Phone,2023-05-28,Factor learn table his stuff system trip whole.,True,False,True,97_1,31641_1,<NA>
+31677,30777,2023-09-02 23:40:39,2023-09-06 02:02:01,2,0,Website,2023-08-25,Enjoy soldier medical through many reason.,False,False,True,37_1,31677_1,<NA>
+31679,30779,2023-11-22 22:14:49,2023-11-24 09:02:03,2,0,Walk-in,2023-11-16,Case water production.,False,False,True,66_1,31679_1,31679_2
+31695,30795,2023-08-06 13:16:09,2023-08-10 20:51:40,1,0,Phone,2023-07-04,Establish glass woman management baby physical.,True,True,False,66_1,31695_1,<NA>
+31801,30901,2023-09-16 17:04:23,2023-09-20 19:12:06,1,1,Walk-in,2023-09-02,Various television peace agreement garden car.,True,False,False,47_1,31801_1,<NA>
+31838,30938,2023-08-30 13:55:53,2023-09-02 06:13:51,4,0,Website,2023-07-27,Office prevent rule finish dog character home.,False,False,True,73_1,31838_1,<NA>
+31853,30953,2023-10-22 08:41:41,2023-10-24 19:18:50,2,0,Website,2023-09-21,How society century join same despite.,False,False,True,83_1,31853_1,<NA>
+31873,30973,2023-06-27 09:37:32,2023-06-29 22:04:32,2,0,Walk-in,2023-05-31,Article true wear film decision.,False,True,False,34_1,31873_1,<NA>
+31948,31048,2023-07-21 17:54:11,2023-07-23 01:08:00,4,1,Walk-in,2023-07-09,Grow find program American pass.,True,False,False,33_1,31948_1,<NA>
+32068,31168,2023-11-12 02:48:17,2023-11-13 09:26:42,4,1,Website,2023-10-09,Trouble long wrong.,True,False,True,89_1,32068_1,<NA>
+32075,31175,2023-10-25 16:28:29,2023-10-30 18:01:23,1,2,Walk-in,2023-09-27,Per population seven step game site.,False,True,False,71_1,32075_1,<NA>
+32103,31203,2023-08-12 20:49:45,2023-08-14 04:50:09,3,1,Walk-in,2023-08-07,Item big brother test sort music recognize.,False,False,True,32_1,32103_1,<NA>
+32214,31314,2023-11-17 12:42:13,2023-11-22 13:54:06,4,2,Booking Platform,2023-10-29,Figure list close political case long.,True,False,False,99_1,32214_1,<NA>
+32247,31347,2023-10-27 03:41:38,2023-10-30 03:59:13,1,0,Website,2023-10-06,Like left travel behind style may still.,False,True,True,8_1,32247_1,<NA>
+32352,31452,2023-07-16 02:52:21,2023-07-19 10:38:13,1,1,Website,2023-06-09,Win control main seat agent front about while.,True,True,True,54_1,32352_1,<NA>
+32375,31475,2023-06-27 10:50:53,2023-07-02 13:50:20,1,2,Phone,2023-05-28,Forget character high economic.,False,False,True,47_1,32375_1,<NA>
+32486,31586,2023-04-30 20:28:52,2023-05-01 06:50:07,2,2,Phone,2023-04-13,More four a as.,False,True,False,17_1,32486_1,<NA>
+32516,31616,2023-08-17 09:47:26,2023-08-19 23:33:35,1,1,Booking Platform,2023-08-07,Medical method human instead sense however.,False,True,True,65_1,32516_1,<NA>
+32551,31651,2023-08-09 20:49:16,2023-08-14 19:00:35,2,0,Booking Platform,2023-07-18,Show lead analysis deep.,False,True,True,88_1,32551_1,<NA>
+32638,31738,2023-09-19 17:49:10,2023-09-23 15:50:30,1,1,Booking Platform,2023-08-11,Bring expect idea product consumer national political.,False,True,False,19_1,32638_1,<NA>
+32670,31770,2023-08-20 06:12:06,2023-08-24 09:20:40,2,2,Booking Platform,2023-07-25,Care hard approach reality.,True,True,False,5_1,32670_1,<NA>
+32695,31795,2023-10-24 14:47:13,2023-10-29 00:49:09,2,1,Website,2023-10-02,Buy dark win itself.,True,True,False,13_1,32695_1,<NA>
+32707,31807,2023-05-28 18:27:11,2023-05-31 19:50:57,3,1,Booking Platform,2023-05-15,Place and majority hear no.,False,True,True,83_1,32707_1,<NA>
+32708,31808,2023-06-11 05:35:05,2023-06-16 16:43:35,4,2,Phone,2023-05-14,Possible least place chair court.,True,True,True,17_1,32708_1,<NA>
+32714,31814,2023-12-18 11:09:52,2023-12-20 22:38:59,1,0,Phone,2023-12-04,Wear hold right seven.,True,True,True,61_1,32714_1,32714_2
+32731,31831,2023-11-22 00:06:16,2023-11-23 20:46:50,1,2,Phone,2023-10-26,Successful research price look others.,False,True,False,22_1,32731_1,<NA>
+32734,31834,2023-02-24 16:46:15,2023-02-26 10:27:39,4,1,Walk-in,2023-01-21,Sea spend whatever interest one worry evidence.,False,False,True,38_1,32734_1,<NA>
+32753,31853,2023-09-14 16:18:56,2023-09-17 05:15:27,4,0,Phone,2023-08-27,Myself director their hair.,False,True,True,64_1,32753_1,<NA>
+32794,31894,2023-06-28 05:30:07,2023-07-01 13:34:55,2,1,Website,2023-06-21,Door five site term various case.,False,False,True,1_1,32794_1,<NA>
+32932,32032,2023-12-17 14:26:32,2023-12-19 04:41:45,2,2,Walk-in,2023-11-18,Sense kitchen institution recent best arrive.,False,True,False,86_1,32932_1,32932_2
+32934,32034,2023-02-18 13:48:31,2023-02-21 23:38:12,1,1,Walk-in,2023-01-17,Social get analysis we ability government main team.,False,True,False,11_1,32934_1,<NA>
+33043,32143,2023-11-02 22:54:55,2023-11-03 02:17:02,2,1,Phone,2023-10-25,Personal herself either.,True,False,False,42_1,33043_1,<NA>
+33069,32169,2023-03-21 23:43:42,2023-03-23 04:48:55,1,1,Phone,2023-02-13,Many nearly chance lawyer character information say shoulder.,False,False,True,54_1,33069_1,<NA>
+33095,32195,2023-02-13 05:11:45,2023-02-18 07:13:27,3,1,Phone,2023-01-20,Month everything until opportunity.,False,True,True,1_1,33095_1,<NA>
+33110,32210,2023-05-06 01:19:44,2023-05-11 20:29:07,1,1,Phone,2023-04-10,Economy eye learn wonder theory seek.,False,True,False,32_1,33110_1,33110_2
+33134,32234,2023-08-22 03:03:16,2023-08-23 20:41:44,1,0,Walk-in,2023-08-08,Return behind church main toward around.,True,True,False,48_1,33134_1,33134_2
+33180,32280,2023-05-26 04:53:11,2023-05-30 03:07:40,3,2,Booking Platform,2023-05-15,Follow part world realize card weight.,False,True,True,93_1,33180_1,33180_2
+33187,32287,2023-11-26 13:55:36,2023-11-30 04:15:27,4,1,Booking Platform,2023-10-30,Somebody necessary chair surface.,True,False,True,23_1,33187_1,<NA>
+33264,32364,2023-04-09 08:02:42,2023-04-10 09:07:05,3,2,Walk-in,2023-03-08,General later thousand method.,True,False,True,100_1,33264_1,33264_2
+33292,32392,2023-04-26 18:17:06,2023-04-29 19:11:29,2,1,Walk-in,2023-03-20,Peace vote his tonight raise increase budget.,True,False,False,65_1,33292_1,33292_2
+33464,32564,2023-03-22 04:17:49,2023-03-27 11:23:48,4,2,Walk-in,2023-02-15,Health drug modern rise.,False,True,True,36_1,33464_1,<NA>
+33484,32584,2023-02-26 11:09:29,2023-02-28 07:22:29,3,1,Website,2023-01-20,People movie story.,True,True,True,52_1,33484_1,33484_2
+33517,32617,2023-09-27 10:11:46,2023-09-29 23:06:52,2,0,Walk-in,2023-09-11,Assume wait indeed let painting.,False,False,True,50_1,33517_1,<NA>
+33616,32716,2023-09-11 02:18:02,2023-09-14 03:19:31,3,2,Booking Platform,2023-09-01,Put place contain ready human no.,False,True,True,64_1,33616_1,33616_2
+33740,32840,2023-06-27 23:18:56,2023-07-01 19:16:39,4,1,Booking Platform,2023-06-13,Five better loss fall wind.,False,True,True,19_1,33740_1,<NA>
+33797,32897,2023-08-06 08:42:06,2023-08-08 16:46:30,4,0,Booking Platform,2023-07-22,Everything statement understand true water professor second boy.,True,False,True,81_1,33797_1,33797_2
+33811,32911,2023-03-31 14:36:09,2023-04-02 19:11:51,4,1,Booking Platform,2023-03-17,Pressure ask program difference hotel same.,False,False,True,8_1,33811_1,33811_2
+33819,32919,2023-09-06 13:58:23,2023-09-09 17:47:43,4,1,Booking Platform,2023-08-19,Never now small tree stage.,True,True,True,50_1,33819_1,<NA>
+33965,33065,2023-07-26 05:35:58,2023-07-27 04:48:11,3,2,Phone,2023-07-14,Clear only somebody rest house a across.,False,False,False,37_1,33965_1,<NA>
+34018,33118,2023-11-05 10:11:42,2023-11-07 08:16:39,1,0,Walk-in,2023-10-30,Me amount office analysis.,True,True,False,59_1,34018_1,<NA>
+34246,33346,2023-11-21 20:40:36,2023-11-23 10:25:25,2,0,Website,2023-11-16,Phone hour senior situation.,True,False,True,34_1,34246_1,<NA>
+34385,33485,2023-06-22 07:53:07,2023-06-23 12:12:21,1,0,Walk-in,2023-06-12,Former than go some.,False,True,False,59_1,34385_1,34385_2
+34458,33558,2024-01-06 18:25:00,2024-01-10 06:28:53,4,0,Walk-in,2023-12-25,Lot success lose upon everybody any anything cut.,False,False,True,8_1,34458_1,<NA>
+34536,33636,2023-07-08 18:00:23,2023-07-13 04:08:38,1,0,Booking Platform,2023-06-30,Piece enjoy real investment laugh.,False,False,False,67_1,34536_1,<NA>
+34585,33685,2023-12-30 00:43:57,2024-01-02 04:49:09,4,0,Website,2023-12-25,Message raise community mind.,True,False,False,99_1,34585_1,<NA>
+34628,33728,2024-01-14 03:37:53,2024-01-16 20:34:33,1,1,Website,2023-12-12,Action their body decide right as.,True,True,True,49_1,34628_1,34628_2
+34690,33790,2023-03-06 07:25:55,2023-03-10 02:53:50,3,0,Website,2023-03-01,Western he put store.,False,True,False,19_1,34690_1,<NA>
+34886,33986,2023-11-18 06:39:22,2023-11-19 23:53:07,3,1,Walk-in,2023-10-10,Enter oil where feeling order.,False,True,True,78_1,34886_1,34886_2
+34905,34005,2024-01-18 21:52:35,2024-01-19 07:49:39,4,0,Booking Platform,2023-12-29,Successful focus the support.,False,False,False,16_1,34905_1,<NA>
+35013,34113,2023-04-28 19:08:46,2023-04-30 14:43:26,4,2,Website,2023-03-26,Home artist ground end whether position.,True,False,False,55_1,35013_1,<NA>
+35090,34190,2023-04-08 04:52:22,2023-04-09 11:25:30,2,0,Walk-in,2023-03-22,Will threat million investment.,True,False,True,51_1,35090_1,<NA>
+35215,34315,2023-09-06 15:49:09,2023-09-11 00:43:37,3,2,Booking Platform,2023-08-27,Condition list staff possible high project role girl.,True,False,False,20_1,35215_1,35215_2
+35234,34334,2023-05-22 17:28:19,2023-05-24 06:00:00,2,1,Phone,2023-04-20,Meeting assume reflect guess within.,True,True,True,90_1,35234_1,<NA>
+35366,34466,2023-11-16 06:16:23,2023-11-19 18:08:40,3,2,Phone,2023-10-16,Month develop scene leg.,False,False,True,89_1,35366_1,<NA>
+35401,34501,2023-12-28 09:44:11,2023-12-29 10:51:10,3,2,Booking Platform,2023-12-04,Through president quickly small.,True,True,True,61_1,35401_1,<NA>
+35415,34515,2023-10-19 18:28:43,2023-10-21 00:09:15,3,2,Walk-in,2023-09-21,Image student family friend indicate.,True,False,True,20_1,35415_1,35415_2
+35439,34539,2023-03-25 06:20:30,2023-03-30 05:49:56,3,2,Phone,2023-03-08,Hear up court.,False,False,True,95_1,35439_1,<NA>
+35467,34567,2023-04-11 10:12:09,2023-04-12 17:59:10,1,2,Walk-in,2023-03-18,Successful significant figure wish western any different.,True,True,False,36_1,35467_1,35467_2
+35745,34845,2023-04-05 00:13:23,2023-04-06 19:01:19,1,1,Booking Platform,2023-03-08,Old may reason.,True,True,False,29_1,35745_1,<NA>
+35756,34856,2023-11-29 06:29:24,2023-12-02 07:28:34,4,0,Phone,2023-11-01,Prevent building six.,True,False,False,66_1,35756_1,35756_2
+35758,34858,2023-04-11 03:21:40,2023-04-14 08:44:10,4,2,Booking Platform,2023-03-23,Method almost big.,True,False,True,29_1,35758_1,<NA>
+35828,34928,2023-07-30 15:56:38,2023-08-01 06:32:11,4,1,Walk-in,2023-07-02,Sport forward reflect begin type speak.,False,True,False,31_1,35828_1,<NA>
+35902,35002,2023-01-28 20:47:10,2023-02-02 05:26:11,1,1,Booking Platform,2023-01-11,Court mother back quality consider.,False,False,False,7_1,35902_1,<NA>
+35924,35024,2023-12-26 00:25:37,2023-12-29 09:38:59,1,2,Booking Platform,2023-12-01,Democrat professor group impact design common floor watch.,True,False,False,12_1,35924_1,<NA>
+35982,35082,2023-11-15 19:10:04,2023-11-17 06:52:17,2,2,Booking Platform,2023-10-27,Now house represent effort energy chance.,False,False,True,63_1,35982_1,<NA>
+36013,35113,2023-05-14 06:18:02,2023-05-18 13:06:37,1,0,Phone,2023-04-27,Yeah company home marriage.,False,False,True,54_1,36013_1,<NA>
+36051,35151,2023-03-27 14:37:58,2023-03-31 11:39:26,3,0,Booking Platform,2023-03-08,Item act worker need.,True,True,False,70_1,36051_1,<NA>
+36083,35183,2023-10-25 13:45:23,2023-10-28 01:06:38,4,1,Walk-in,2023-10-01,Hand final story finally.,True,False,False,27_1,36083_1,<NA>
+36522,35622,2023-12-04 11:50:12,2023-12-07 00:11:13,2,0,Phone,2023-11-12,Two now term off international mind member.,False,False,False,17_1,36522_1,<NA>
+36583,35683,2023-10-26 20:06:18,2023-10-27 17:57:10,4,0,Website,2023-09-27,Month case middle lose check.,True,True,True,39_1,36583_1,<NA>
+36729,35829,2024-01-01 16:39:55,2024-01-05 03:58:44,4,1,Booking Platform,2023-12-23,Nearly piece common director shake direction vote.,False,True,False,48_1,36729_1,36729_2
+36806,35906,2023-07-24 11:52:19,2023-07-25 07:07:03,1,2,Booking Platform,2023-07-18,Hard summer store remain study level together.,False,False,True,88_1,36806_1,<NA>
+36933,36033,2023-09-12 20:06:23,2023-09-16 20:50:19,4,2,Walk-in,2023-09-05,Order loss four especially less meeting.,False,True,False,48_1,36933_1,<NA>
+36943,36043,2023-03-27 23:11:16,2023-03-28 15:06:13,1,0,Website,2023-02-18,Agree exactly whatever throw computer.,False,True,False,55_1,36943_1,<NA>

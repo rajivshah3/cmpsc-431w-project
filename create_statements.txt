@@ -1,0 +1,50 @@
+CREATE TABLE IF NOT EXISTS guests (
+    guest_id BIGINT,
+    first_name TEXT,
+    last_name TEXT,
+    email TEXT,
+    phone TEXT,
+    nationality TEXT,
+    birthdate TIMESTAMP,
+    address TEXT,
+    city TEXT,
+    country TEXT
+);
+
+CREATE TABLE IF NOT EXISTS payments (
+    payment_id TEXT,
+    payment_method TEXT,
+    payment_status TEXT,
+    payment_amount DOUBLE PRECISION
+);
+
+CREATE TABLE IF NOT EXISTS reservations (
+    reservation_id BIGINT,
+    guest_id BIGINT,
+    checkin_time TIMESTAMP,
+    checkout_time TIMESTAMP,
+    adults BIGINT,
+    children BIGINT,
+    reservation_source TEXT,
+    booking_date TIMESTAMP,
+    special_requests TEXT,
+    breakfast_included BOOLEAN,
+    spa_package_included BOOLEAN,
+    airport_pickup_included BOOLEAN,
+    room_rate_id TEXT,
+    prepayment_id TEXT,
+    other_payment_id TEXT
+);
+
+CREATE TABLE IF NOT EXISTS room_rates (
+    room_number BIGINT,
+    room_rate BIGINT,
+    room_rate_id TEXT
+);
+
+CREATE TABLE IF NOT EXISTS rooms (
+    room_number BIGINT,
+    floor_number BIGINT,
+    room_type TEXT
+);
+
